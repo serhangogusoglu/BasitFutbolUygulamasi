@@ -1,0 +1,11 @@
+C:\Users\LENOVO\OneDrive\Masaüstü\c#vısualstudıo\csharpaRANDOM\csharpaRANDOM\bin\Debug\csharpaRANDOM.exe.config
+C:\Users\LENOVO\OneDrive\Masaüstü\c#vısualstudıo\csharpaRANDOM\csharpaRANDOM\bin\Debug\csharpaRANDOM.exe
+C:\Users\LENOVO\OneDrive\Masaüstü\c#vısualstudıo\csharpaRANDOM\csharpaRANDOM\bin\Debug\csharpaRANDOM.pdb
+C:\Users\LENOVO\OneDrive\Masaüstü\c#vısualstudıo\csharpaRANDOM\csharpaRANDOM\obj\Debug\csharpaRANDOM.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\c#vısualstudıo\csharpaRANDOM\csharpaRANDOM\obj\Debug\csharpaRANDOM.Form1.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\c#vısualstudıo\csharpaRANDOM\csharpaRANDOM\obj\Debug\csharpaRANDOM.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\c#vısualstudıo\csharpaRANDOM\csharpaRANDOM\obj\Debug\csharpaRANDOM.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\c#vısualstudıo\csharpaRANDOM\csharpaRANDOM\obj\Debug\csharpaRANDOM.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\c#vısualstudıo\csharpaRANDOM\csharpaRANDOM\obj\Debug\csharpaRANDOM.exe
+C:\Users\LENOVO\OneDrive\Masaüstü\c#vısualstudıo\csharpaRANDOM\csharpaRANDOM\obj\Debug\csharpaRANDOM.pdb
+C:\Users\LENOVO\OneDrive\Masaüstü\c#vısualstudıo\csharpaRANDOM\csharpaRANDOM\obj\Debug\csharpaRANDOM.Form2.resources

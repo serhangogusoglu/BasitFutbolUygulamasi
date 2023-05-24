@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Desktop\c#vısualstudıo\Zar Atma Oyunu\Zar Atma Oyunu\obj\Debug\Zar Atma Oyunu.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\c#vısualstudıo\Zar Atma Oyunu\Zar Atma Oyunu\obj\Debug\Zar Atma Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\c#vısualstudıo\Zar Atma Oyunu\Zar Atma Oyunu\obj\Debug\Zar_Atma_Oyunu.Form1.resources
+C:\Users\LENOVO\Desktop\c#vısualstudıo\Zar Atma Oyunu\Zar Atma Oyunu\obj\Debug\Zar_Atma_Oyunu.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\c#vısualstudıo\Zar Atma Oyunu\Zar Atma Oyunu\obj\Debug\Zar Atma Oyunu.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\c#vısualstudıo\Zar Atma Oyunu\Zar Atma Oyunu\obj\Debug\Zar Atma Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\c#vısualstudıo\Zar Atma Oyunu\Zar Atma Oyunu\bin\Debug\Zar Atma Oyunu.exe.config
+C:\Users\LENOVO\Desktop\c#vısualstudıo\Zar Atma Oyunu\Zar Atma Oyunu\bin\Debug\Zar Atma Oyunu.exe
+C:\Users\LENOVO\Desktop\c#vısualstudıo\Zar Atma Oyunu\Zar Atma Oyunu\bin\Debug\Zar Atma Oyunu.pdb
+C:\Users\LENOVO\Desktop\c#vısualstudıo\Zar Atma Oyunu\Zar Atma Oyunu\obj\Debug\Zar Atma Oyunu.exe
+C:\Users\LENOVO\Desktop\c#vısualstudıo\Zar Atma Oyunu\Zar Atma Oyunu\obj\Debug\Zar Atma Oyunu.pdb
